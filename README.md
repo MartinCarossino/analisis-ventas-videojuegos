@@ -10,7 +10,7 @@ Responder preguntas de negocio sobre la industria de los videojuegos: qué géne
 
 - **Fuente:** [Video Game Sales — Kaggle (gregorut/videogamesales)](https://www.kaggle.com/datasets/gregorut/videogamesales)
 - **Tamaño:** 16.598 registros originales (16.327 tras limpieza), 11 columnas
-- **Cobertura:** juegos lanzados entre 1980 y 2020, con datos de ventas por región (Norteamérica, Europa, Japón, Otros) y ventas globales
+- **Cobertura:** juegos lanzados entre 1980 y 2016, con datos de ventas por región (Norteamérica, Europa, Japón, Otros) y ventas globales
 
 ## Proceso
 
